@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/eoscloud/kustomize/compare/v1.0.0...v1.0.1) (2026-04-09)
+
+
+### Bug Fixes
+
+* Docker workflow push tags ([b5b8087](https://github.com/eoscloud/kustomize/commit/b5b8087bf2b9f88d4585ebb4bb6bcfc259b566be))
+
 ## 1.0.0 (2026-04-09)
 
 
