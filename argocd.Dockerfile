@@ -15,5 +15,5 @@ RUN CGO_ENABLED=0 GO111MODULE=on go build \
     -o kustomize .
 
 # Stage 2: ArgoCD image with custom kustomize build
-FROM argoproj/argocd:v2.6.15
+FROM quay.io/argoproj/argocd:v3.3.6
 COPY --from=builder /build/kustomize/kustomize /usr/local/bin/kustomize
