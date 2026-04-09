@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.4](https://github.com/eoscloud/kustomize/compare/v1.0.3...v1.0.4) (2026-04-09)
+
+
+### Bug Fixes
+
+* bump ArgoCD version and change base image ([30fae07](https://github.com/eoscloud/kustomize/commit/30fae07351eb4e38b13f6405c69da4359993f4bb))
+
 ## [1.0.3](https://github.com/eoscloud/kustomize/compare/v1.0.2...v1.0.3) (2026-04-09)
 
 
